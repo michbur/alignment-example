@@ -1,0 +1,800 @@
+>pep1
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG------------------------NHG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY---------------------------------------------TIIPEVT
+LTQSCLCRVQILSLREGSSGQSQTKQEKTLSLPANQPIALTKLSLNISPDDRVKIVVTVS
+DGQSLHLSQQWPPSSEKS
+>pep2
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYD-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>pep3
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG------------------------NHG-GGGNNS----GLNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQYYTSFVLQKQGASPVFFREKNMNTLLLLAALSSQITFNTTQQGDVYTIIPEVT
+LTQSCLCRVQILSLREGSSGQSQTKQEKTLSLPANQPIALTKLSLNISPDDRVKIVVTVS
+DGQSLHLSQQWPPSSEKS
+>pep4
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSIMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>emb|STL33795.1| cryptic curlin major subunit [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNATGS
+SVLIHHLYYRNRAQALFFSGEEYEYVITPCGTFQSDNL----------------------
+------------------------------------------------------------
+------------------
+>ref|WP_218083376.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGGGN-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSGTLD
+QWNGKDSHMTVKQFGGGNGAAVDQTASNSTVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>tpg|HDI5905370.1| curlin major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGGGNHGGGGNNSGPNSELNIYQYGGGNHG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_192856416.1| curli major subunit CsgA, partial [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGGGN-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGN-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_338234274.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MSWSHYRA----------LAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_172756283.1| curli major subunit CsgA, partial [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASN--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_335886367.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASKEGANKFLI------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MFX0974587.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASKEGANKQVISSQADSLIKISRIWADFFPANT--
+----SNQPI---------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_250186449.1| curli major subunit CsgA, partial [Escherichia coli]
+--------------------ADRNRSHWSTSKTPSYTKSVSWQHH-------------PG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>pdb|8ENQ|A Chain A, Major curlin subunit [Escherichia coli]
+---------------------------------------M-------------------G
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDCRNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQC---------------GFGNNAT--
+----AHQYHHHHHH----------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|ENT8905015.1| curli major subunit CsgA [Shigella sonnei]
+----------------------------------------------A----------LAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_413146191.1| curli major subunit CsgA, partial [Escherichia coli]
+------------------------------------------------------GSALAG
+VVPQYG-GGGGN-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_000771441.1| MULTISPECIES: curli major subunit CsgA [Enterobacteriaceae]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGG-------------------
+------NSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|ENA6133533.1| curlin major subunit CsgA [Escherichia coli]
+----------------------------------------KLLKVAAIAAIVFSGSALAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVD-------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_334394437.1| curli major subunit CsgA, partial [Escherichia coli]
+------------------------------------------------------------
+---------G-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_095281550.1| curli major subunit CsgA [Lelliottia aquatilis]
+---------------------------------------MKLFKVAAIAAIVVSGSALAG
+VVPQYG-GGGGGGW----------------------G-GGGNNS----GPNS----TLSI
+YQYGGGNSAVALQSDAKNSDLTITQHGGGNGADVGQGSDDSSID---LLQKGFGNSATLD
+QWNGKNSTMEVKQFGGGNGAAVDQTASGSTVTVHQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>dbj|BBU84815.1| major curlin subunit [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGGGN-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAV--ALRSTRLHLTPALTSLRLALVTTRPL--ISTNTS--
+----SV------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|NZA52729.1| curlin major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGE--------PPRVSWRVFYL------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>tpg|HBD0116363.1| curlin major subunit CsgA [Escherichia coli]
+------------------------------------------------------------
+-----------------------------------HG-GGGNNS----GPNS----ELKI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGPDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|END7428997.1| curlin major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQ-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MDS1492874.1| curli major subunit CsgA [Escherichia coli]
+MSGSAFAVTHHAFSSGAGRTSDGNGSHASTLKSPSYTKSVSWQHY-------------RG
+---------------------------------------GGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_000765273.1| MULTISPECIES: curli major subunit CsgA [Escherichia]
+---------------------------------------MKLFKVAAIAAIVFSGSVLAG
+TVPQFG-GGG------------------------GHNPGNGNNN----GPNS----ELNI
+YQYGGGNSAVALQTDAKNSDLTITQHGGGNGADVGQGSDDSSID---LLQRGFGNSATLD
+QWNSKDSIMKVKQYGGGNGAAVDQTASNSQVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_119177860.1| curli major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+--------MP-V-----------------------HL-S--NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQYEVAH------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_252991717.1| curli major subunit CsgA [Shigella flexneri]
+---------------------------------------ME-----------HHPAGLTT
+GFPCHF-QRF--------------------------H-GEXNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_260661076.1| curli major subunit CsgA [Enterobacter mori]
+---------------------------------------MKLFKVAAIAAIIVSGSAFAG
+AVPQFG-GGH-G-----------------------HG---GGNS----GPDS----TLSI
+YQYGGGNSALALQTDARDSDLTITQHGGGNGADVGQGSDDSSID---LLQKGFGNSATID
+QWNSKDSVINVKQFGGGNGAAVDQTASGSTVTVHQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EKA9180990.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+---------------------------------------LSNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGATVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_181623025.1| MULTISPECIES: curli major subunit CsgA [Enterobacteriaceae]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LIDQSS-SLGWG-----------------------HG-G--NN----SGPNS----TLSI
+YQYGGGNSAVALQSDARNSSLTIKQSGGGNGADVGQGSDDSSIS---LTQHGFGNSATLD
+QWNGKNSTMTVSQYGGGNGAAVDQTASNSTVTVHQV---------------GFGNHAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>tpg|HCS2764798.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+-----------------------------------------NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNDAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EFV7181246.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+-----------------------------------------NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVVQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EAA0839870.1| major curlin subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+-----------------------------------------NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGATVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EHY5551711.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+-----------------------------------------NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMIVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MDZ7204140.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVK------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_250378096.1| curli major subunit CsgA, partial [Escherichia coli]
+------------------------------------------------------------
+---------------------------------------GGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>emb|VEC73587.1| cryptic curlin major subunit [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGGGN-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFRWR-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_276292128.1| curli major subunit CsgA [Citrobacter enshiensis]
+---------------------------------------MKLFKVAAIAAIVVSGSALAG
+VVPQYG-SGG-NGGWP----------------------GHGDN-----GPNS----HLSI
+YQYGGGNSAVALQSNAKNSDLTITQHGGGNGADVGQGSDDSSID---LLQKGFGNSATLD
+QWNGKDSTMSVKQFGGGNGALVDQTASGSDVTIKQV---------------GFGNNAS--
+----AQQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_310826882.1| curli major subunit CsgA [Pseudenterobacter timonensis]
+---------------------------------------MKLFKVAAIAAIIVSGSALAG
+VVPQYG-GGNHGGG---------------------NG-GGNNNS----GPNS----ELSI
+YQYGGGNSALALQTDAKNSELTISQSGGSNGADVGQGSDDSSID---LQQRGFGNSATLD
+QWNGKESTMIVKQYGGGNGAAVDQTASGSTVSVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EFW4410059.1| curlin major subunit CsgA [Shigella sonnei]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVK------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_204772549.1| MULTISPECIES: curli major subunit CsgA [Gammaproteobacteria]
+---------------------------------------MKLFKVAAIAAIVVSGSALAG
+AIPQYG-HGG--------------------------G-WGGGNS----GPNS----TLSI
+YQSGGGNSAVALQSNAKDSELSISQHGGGNGADVGQGSDDSSID---LVQKGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASGSTVSVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EMB0577215.1| curlin major subunit CsgA [Escherichia coli]
+------------------------------------------------------------
+----------------------------------------GNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSHMTVKQFGGGNGAAVDQTASNSTVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>tpg|HDW2113038.1| curlin major subunit CsgA [Escherichia coli]
+------------------------------------------------------------
+-----------------------------------------NNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|ENF4402424.1| curlin major subunit CsgA [Shigella sonnei]
+--------------------------------------------VAAIAAIVFSGSALAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGG-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|END8160265.1| curlin major subunit CsgA [Shigella sonnei]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTV-------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_368541343.1| curli major subunit CsgA [Enterobacter soli]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LIDQSS-SLGWG-----------------------HG-G--HD----SGPNS----TLSI
+YQYGGGNSALALQSNAKDSTLSISQSGGGNGADVGQGSDDSTIT---LSQNGFGNSATLD
+QWNGKNSTMTVSQFGGGNGAAVDQTASGSTVTVQQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_304588472.1| curli major subunit CsgA, partial [uncultured Escherichia sp.]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGK-------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_182274672.1| MULTISPECIES: curli major subunit CsgA [Enterobacter]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+MIDQG----GWG-----------------------HG-G--HD----NGPNS----TMSI
+YQYGGGNSAVALQTDARNSSLTIRQSGGGNGADVGQGSDDSTIN---LTQHGFGNSATLD
+QWNGKNSTMNVSQYGGANGAIVDQTASNSSVTVQQV---------------GFGNHVT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_343167272.1| curli major subunit CsgA, partial [Pseudomonas aeruginosa]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGGGN-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMAD-------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EOC2707693.1| curli major subunit CsgA [Shigella sonnei]
+---------------------------------------------------------MAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTA----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|ENC0044821.1| curlin major subunit CsgA [Shigella sonnei]
+-----------------------------------------------IAAIVFSGSALAG
+VVPQYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQF----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_250388464.1| curli major subunit CsgA, partial [Escherichia coli]
+------------------------------------------------------------
+---------------------------------------------------S----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_342321142.1| curli major subunit CsgA [Kosakonia calanthes]
+---------------------------------------MKLFKVTALAVVVVSASAFAG
+SVPQYG-----------------------------HGGGSS-------GPNS----ELSI
+YQYGSANAALALQTDARNSDLTITQHGSANGADVGQGSDDSSID---LLQSGSRNNATID
+QWNSRDSEVSVSQYGGGNAALVNQTASASSVTVQQT---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_219357590.1| curli major subunit CsgA [Enterobacter sp. BIDMC 29]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+MINQGGW----G-----------------------HG-HG-HGHGGNSGPNS----TLNI
+YQNGGGNSALALQTDARNSVLNISQTGGGNGADVGQGSDDSKIN---LTQNGFGNSATLD
+QWNSKKSVMNVSQYGGLNGALVDQTASNSTVNVTQI---------------GFGNHAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_337277846.1| curli major subunit CsgA [Enterobacter cancerogenus]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LINQG----GWG-----------------------HG-GGNNN----NGPDS----TLSI
+YQYGGGNSALALQSDARDSSLSISQSGGGNGADVGQGSDDSTIT---LTQNGFGNSATLD
+QWNGKDSTMTVSQFGGGNGAAVDQTASGSTVTVQQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EJJ1453773.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+------------------------------------------NS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_063858499.1| MULTISPECIES: curli major subunit CsgA [Enterobacter]
+---------------------------------------MKFIKVAAIVAIVVSGSAMAG
+SINQGGWGNGHG-----------------------HG-G--HD----SGPNS----TLSI
+YQYGGGNSALALQTSARNSTLTINQSGGGNGADVGQGSDDSSIS---LTQNGFGNSATLD
+QWNGNHSVMNVSQYGGGNGAAVDQTASGSTVTVQQV---------------GFGNHAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_196438455.1| MULTISPECIES: curli major subunit CsgA, partial [Pseudomonadota]
+------------------------------------------------------------
+-----------------------------------------------------------I
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|ENE5177726.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+--------MP-V-----------------------HL-S--NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVT--------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EOX0959700.1| curlin [Shigella sonnei]
+------------------------------------------------------------
+---QYG-GG--N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALVLQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTA----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_024130450.1| MULTISPECIES: curli major subunit CsgA [Citrobacter]
+---------------------------------------MKLLKVAAFAAIVVSGSALAG
+VVPQWG-GGG-G-----------------------HNNG-GNNS----GPES----TLSI
+FQYGSANSALALQSDARKSDLSIKQYGHGNGADVGQGADNSGID---LTQNGYRNSATID
+QWNAKNSDIVVSQFGGRNGALVNQTASDSQVSVTQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_326471125.1| curli major subunit CsgA [Enterobacter wuhouensis]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LINQGGW----G-----------------------HG-PGNSG-----GPKS----TLDI
+YQNGGGNSAVALQSDARNSTLSISQTGGVNGADVGQGSDDSTIS---LTQNGFGNSATLD
+QWNGNHSTMNVSQYGGGNGAAVDQTASGSTVNVQQI---------------GFGNHAQ--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_283283570.1| curli major subunit CsgA [Trabulsiella odontotermitis]
+---------------------------------------MKLIKVAAFAAIVVSGSALAG
+LVPQYG-GG--------------------------HGGGGGSTT----GPES----TMSI
+YQYGGGNMATALQSDARNSDLTIKQYGGANAADVGQGSDTSSID---LLQKGYANNATID
+QWNSKNSEVEVRQFGASNGALVNQSASDSSVTVHQV---------------GFGNNAT--
+----ASQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_016234674.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+Y-----------------------QHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>tpg|HCS3116452.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+-----------------------------------HL-S--NNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVN----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_259836606.1| curli major subunit CsgA [Enterobacter sp. CP102]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LIDQGGW----G-----------------------HG-HG-HGGYG--GPNS----TLNI
+YQSGGGNSAVALQSDARNSTLSISQTGGGNGADVGQGSDDSTIT---LTQNGFGNSATLD
+QWNSRDSTMTVSQYGGLNGALVDQTASNSSVSVTQV---------------GIGNHVS--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>emb|VDZ88428.1| cryptic curlin major subunit [Lelliottia amnigena]
+--------------------------------------MLWLVQFHNTATVVVGG-----
+----------------------------------------GGNS----GPNS----TLSI
+YQSGGGNSAVALQSDAKDSELSISQHGGGNGADVGQGSDDSSID---LVQKGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASGSTVSVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_079975834.1| curli major subunit CsgA [Salmonella enterica]
+---------------------------------------MKLLKVAAFAAIVVSGSALAG
+VVPQWG-GGG-N-----------------------HNGG-GNSS----GPDS----TLSI
+YQYGSANAAFALQSDARKSETTITQSGYGNGADVGQGADNSTIE---LTQNGFRNNATID
+QWNAKNSDITVGQYGGNNAALVNQTASDSSVMVRQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_006819424.1| curli major subunit CsgA [Yokenella regensburgei]
+---------------------------------------MKLFKVAALAAIVVSGSALAG
+MFPQYG-GD--------------------------HGNGNQS------GPDS----TMSI
+YQYGSGNNATALQSDARKSDLTIKQFGSSNGADVGQGSDSSTID---LLQKGTANNATIS
+QWNSKNSDIQVQQFGALNGAVVHQTASDSSVTVHQV---------------GFGNHAS--
+----ASQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_431106120.1| curli major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNS------------------------D---LTQRGFGNSATLD
+QWNGKDSTMIVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MCV9219568.1| curlin [Escherichia coli]
+------------------------------------------------------------
+---MVG-GPVGDFELLLCHGTVCVVGKIRDLIL---------QL----SKSSI-------
+--YSTKPSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_097435745.1| curlin major subunit CsgA, partial [Escherichia coli]
+------------------------------------------------------------
+-VPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQADARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGG-------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MWT62616.1| curlin major subunit CsgA [Escherichia coli]
+---------------------------------------MKLFKVAVIAAIVVSGSAFAG
+AVPQFG-GGH-G-----------------------GG-WGGGNN----GPDS----TLSI
+YQYGGGNSALALQTDARDSELTITQHGGGNGADVGQGSDDSSID---LLQKGFGNSATID
+QWNSKDSVINVKQFGGGNGAAVDQTA----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_212478664.1| curli major subunit CsgA [Leclercia sp. UBA7405]
+---------------------------------------MKLLKVAVIAAIVVSGSAMAG
+SVPQYG-HGG-N-----------------------GGWG-GNNS----GPNS----NLSI
+YQSGGSNAALALQTDARNSDLTIRQNGFGNGADVGQGADDSDIL---LTQHGFGNNATID
+QWNAKNADINVSQSGGRNAAAVDQTASGSNVVVQQV---------------GFANNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_046478937.1| curli major subunit CsgA [Citrobacter amalonaticus]
+---------------------------------------MKLLQVAAFAAIVVSGSALAG
+SVSQWG-GGS-D-----------------------HG----SSS----GPDS----NLSI
+YQFGTNNAALALQSDARKSDTTITQHGYGNGADVGQGADNSTID---LTQKGFKNNATID
+QWNGKNSDITVSQYGGRNAALVNQTASDSSVLVKQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_096150080.1| curlin major subunit CsgA [Escherichia coli]
+------------------------------------------------------------
+-----------------------------------------MFS----HPVYLFLREFSL
+QDFRGG--SLALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_410734142.1| curli major subunit CsgA [Citrobacter freundii]
+---------------------------------------MKLLKVAAFAAIVVSGSALAG
+VVPQWG-GN--------------------------HHGG-GSNY----GPDS----SLSI
+YQYGSNNSANALQSDARKSDVTITQHGRGNGAVVGQGADDSTIS---LKQTGFQNSATID
+QWNAKNADISVTQFGGRNGALVNQTASESNVLIQQV---------------GFGNNAT--
+----ANQH----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_086512621.1| curli major subunit CsgA [Citrobacter amalonaticus]
+---------------------------------------MKLLQVAAFAAIVVSGSALAG
+SVPQW------------------------------------SSS----GPES----TLSI
+YQSGVNNAALALQSDARKSDTTIHQNGFGNGADVGQGSDNSTID---LTQNGFKNNATID
+QWNGKNSDITVSQYGGHNAALVNQTASDSSVLVHQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_065365705.1| curli major subunit CsgA, partial [Enterobacter sichuanensis]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LIDQGGW----G-----------------------HG-HG-HGHGGY-GPNS----TLNI
+YQSGGGNSAVALQTNARNSTLSISQSGGGNGADVGQGSDDSTIS---LTQNGFANSATLD
+QWNSHDSTMNVSQYGGFNGALVDQTASNSTVNVTQI---------------GLGNHAS--
+----APNSSPKCDTLQFKRLASF-------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MFY7041736.1| curli major subunit CsgA [Enterobacter cloacae complex sp. ZZL003]
+------------------------------------------------------------
+-----G-GGH-G-----------------------GG-WGGGNN----GPDS----TLSI
+YQYGGGNSALALQTDARDSELTITQHGGGNGADVGQGSDDSSID---LLQKGFGNSATID
+QWNSKDSVINVKQFGGGNGAAVDQTASGSTVTVHQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_090136471.1| curli major subunit CsgA [Kosakonia oryziphila]
+---------------------------------------MKLFKVAALAAIVVSASAFAG
+SVPQFP------------------------------G-----HS----GPNS----ELNI
+YQTGSGNSALALQADARDSTTTIRQNGSSNAADVGQGSDDSTIS---LSQNGFHNSSTIE
+QWNSKDSTIAVSQYGGGNGALVNQTASDSTVTVRQV---------------GFGNNAN--
+----AKQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_103947983.1| curli major subunit CsgA, partial [Lelliottia aquatilis]
+------------------------------------------------------------
+------------------------------------G-GGGNNS----GPNS----TLSI
+YQYGGGNSAVALQSDAKNSDLTITQHGGGNGADVGQGSDDSSID---LLQKGFGNSATLD
+QWNGKNSTMEVKQFGGGNGAAVDQTASGSTVTVHQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_044177658.1| curli major subunit CsgA [Phytobacter massiliensis]
+---------------------------------------MNFFKVATLAAVVVSASAFAG
+SVPQYP-----G-----------------------HG-GGNGNN---NGPDS----TLSI
+YQTGSSNSALALQTDARDSEITVRQNGSSNGADVGQGSDDSTIS---LSQNGFRNSATID
+QWNSRDSEITVSQYGGGNGALVNQTASGSSVNVQQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_128340344.1| curli major subunit CsgA [Enterobacter cloacae]
+---------------------------------------MKFIKVAALAAIVVSGSAMAG
+LIDQGGW----G-----------------------HG-HG-HGHGGY-GPNS----TLNI
+YQSGGGNSAVALQTNARNSTLSISQSGGGNGADVGQGSDDSTIS---LTQNGFANSATLD
+QWNSHDSTMNVSQYGGFNGALVDQTASNSTVNVTQI---------------GLGKVRT--
+----SS------------------------------------------------------
+------------------------------------------------------------
+------------------
+>emb|CAD5354442.1| cryptic curlin major subunit [Enterobacter cancerogenus]
+---------------------------------------------------------MAG
+LINQG----GWG-----------------------HG-GGHNN----NGPDS----TLSI
+YQYGGGNSALALQSDARDSSLSISQSGGGNGADVGQGSDDSTIT---LTQNGFGNSATLD
+QWNGKDSTMTVSQFGGGNGAAVDQTASGSTVTVQQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|END8849946.1| curlin major subunit CsgA [Shigella flexneri]
+------------------------------------------------------------
+-------------------------------------------S----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQ------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|EHC78135.1| Major curlin subunit precursor CsgA [Salmonella enterica subsp. enterica serovar Montevideo str. S5-403]
+---------------------------------------MKLLKVAAFAAIVVSGSALAG
+VVPQWG-GGG-NQSF--------------------HNGA-G-------------------
+----SANAALALQSDARKSETTITQSGYGNGADVGQGADNSTIE---LTQNGFRNNATID
+QWNAKNSDITVGQYGGNNAALVNQTASDSSVMVRQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_072568111.1| MULTISPECIES: curli major subunit CsgA [unclassified Enterobacter]
+---------------------------------------MKFIKVAVVAAIVVSGSAFAG
+SIPQYG-----------------------------HGGHNS-------GPNS----ELGI
+FQYGSTNAALALQTDARDSSLTITQNGTGNGADVGQGSDDSTIE---LTQTGSRNNATID
+QWNSRDSEINVNQHGVLNGALVNQTASNSFVEVRQV---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_103819492.1| MULTISPECIES: curli major subunit CsgA [Enterobacteriaceae]
+---------------------------------------MKFIKVAALAAIVISGSAFAG
+SVGQYG------------------------------GGSYG-------GPNS----ELSI
+FQYGSNNSALALQTDARDSDLTVTQHGSRNAADVGQGSDDSSIT---LSQNGSRNNATID
+QWNSRHSDIDVRQYGTANGALVNQTASQSYVEVRQV---------------GYGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_439918209.1| curli major subunit CsgA [Enterobacter roggenkampii]
+---------------------------------------M----ISYQELVRTFRSAMAG
+SINQGGW----G-----------------------HG-HG-HG--GYSGPNS----TLNI
+YQDGGGNSAVALQTDARNSVLNITQKGGGNGADVGQGSDDSKIN---LTQKGFGNSATLD
+QWNSKKSVMNVSQSGGFNGALVDQTASNSTVNVTQI---------------GFGNHAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_045441577.1| MULTISPECIES: curli major subunit CsgA [Citrobacter]
+---------------------------------------MKFLKVAAFAAIVVSGSALAG
+VVPQWG-GSG-------------------------HHNG-GNNN----GPDS----SMSI
+YQYGSGNIANALQSDARKSDVTITQHGRGNGATVGQGADDSTIS---LKQTGFSNSADIN
+QWNAKHADISVTQYGGRNGAVVNQTASDSNVLVRQV---------------GYGNNAT--
+----ANQH----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_042283817.1| MULTISPECIES: curli major subunit CsgA [Citrobacter]
+---------------------------------------MKLVQVAAFAAIVVSGSALAG
+SVPQWG-GGG-N-----------------------HGGGNGNSS----GPES----TLSI
+YQSGVNNAALALQSDARKSDTTIHQNGVANGADVGQGADNSTID---LTQSGFRNNATID
+QWNAKNSDITVSQYGGQNAALVNQTASDSSVLVSQA---------------GFGNNAT--
+----ANQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|PUB49248.1| major curlin subunit [Enterobacter sp. OLF]
+------------------------------------------------------------
+MINQGGW----G-----------------------HG-HG-HG--GYGGPNS----TLNI
+YQNGGGNSALALQTDARNSVLNISQTGGGNGADVGQGSDDSSIN---LTQNGFGNSATLD
+QWNSKDSVMNVSQYGGLNGALVDQTASNSTVNVTQI---------------GFGNHAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_117002416.1| curlin major subunit CsgA [Escherichia coli]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGN--------------------------------------------------
+------------------------------GADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKDSTMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MCY7264627.1| curlin major subunit CsgA [Pseudomonas protegens]
+------------------------------------------------------------
+------------------------------------------------------------
+-QYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVT--------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|MBB2844744.1| major curlin subunit [Enterobacter ludwigii]
+---------------------------------------------------------MAG
+SINQGGWGNGHG-----------------------HG-G--HD----SGPNS----TLSI
+YQYGGGNSALALQTSARNSTLTINQSGGGNGADVGQGSDDSSIS---LTQNGFGNSATLD
+QWNGNHSVMNVSQYGGGNGAAVDQTASGSTVTVQQV---------------GFGNHAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>gb|OSL14328.1| major curlin subunit CsgA [Escherichia coli H386]
+---------------------------------------MKLLKVAAIAAIVFSGSALAG
+VVPQYG-GGG-N-----------------------HG-GGGNNS----GPNS----ELNI
+YQYGGGNSALALQTDARNSDLTITQHGGGNGADVGQGSDDSSIEPPRVSWRVFYL-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------
+>ref|WP_032157015.1| curlin major subunit CsgA, partial [Shigella sp. SIG3]
+------------------------------------------------------------
+------------------------------------------------------------
+----------------RNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
+>emb|SRN47022.1| cryptic curlin major subunit [Shigella flexneri]
+------------------------------------------------------------
+------------------------------------------------------------
+------MSGDSGGQSTRNSDLTITQHGGGNGADVGQGSDDSSID---LTQRGFGNSATLD
+QWNGKNSEMTVKQFGGGNGAAVDQTASNSSVNVTQV---------------GFGNNAT--
+----AHQY----------------------------------------------------
+------------------------------------------------------------
+------------------
