@@ -1,0 +1,32 @@
+---
+title: "text"
+format: 
+  html:
+    include-in-header: scripts.html
+---
+
+## Quarto
+
+<!-- MSABrowser Demo -->
+<section id="MSABrowserDemo"></section>
+<!-- end of MSABrowser Demo -->
+
+
+<script type="text/javascript" charset="utf-8">
+        var viewer;
+
+        $.get("P10636.fa", (fasta) => {
+
+            viewer = new MSABrowser({
+                id: "MSABrowserDemo",
+                msa: MSAProcessor({
+                    fasta: fasta,
+                    hasConsensus: true
+                }),
+                colorSchema: "clustal",
+            });
+
+            viewer.export("MSA_export.fasta");
+
+        });
+</script>
