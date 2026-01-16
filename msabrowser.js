@@ -29,7 +29,7 @@
         this.extractLinkFromId = function(sequenceId) {
             var sequenceType = sequenceId.substring(0, 2);
             var link;
-            link = sequenceId + ".html"; 
+            link = "peptides/" + sequenceId + ".html"; 
             
             return link;
         }
@@ -416,7 +416,7 @@
         $mainDiv = this.mainDiv;
         containerTemplate = `<section class="go-to-position">
             Search a position: <input type="number" placeholder="3" name="position" min="1" class="form_input" id="${ids.positionInput}">
-            Species : <select name="species" id="${ids.speciesSelect}"></select>
+            Peptide ID : <select name="species" id="${ids.speciesSelect}"></select>
             </section>`;
 
         $mainDiv.find('.bottom-panel').append(containerTemplate);
